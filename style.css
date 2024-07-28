@@ -435,15 +435,45 @@ P {
     background-image: url(./assets/BG_header.png);
     background-size: auto;
     background-repeat: no-repeat;
+    padding: 0px;
+  }
+  .acheive {
+    padding: 20px;
+  }
+  .employee {
+    background-color: #9487bf;
+    color: #1f3265;
+    max-width: 385px;
+    margin: auto;
+    border-radius: 8px;
+  }
+  .achievement {
+    max-width: 400px;
+    margin: auto;
+  }
+  .achievement1 {
+    padding: 0px;
+    justify-content: space-around;
   }
   .newsletter {
     margin: 0px 20px;
+  }
+  .techtip {
+    background-color: #9487bf;
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
   }
   .logo img {
     width: 150px;
   }
   .logo h3 {
     margin-top: 20px;
+  }
+  .hse {
+    padding: 40px 0px;
+    max-width: 400px;
+    margin: auto;
   }
   .logo {
     text-align: center;
@@ -464,14 +494,20 @@ P {
     background-color: #ffffff;
     min-width: 400px;
   }
+  .size1 {
+    margin: 0px;
+    padding: 0px;
+  }
   .sizemax {
-    min-width: 400px;
+    min-width: 390px;
+    max-width: 400px;
+    padding: 0px 10px;
   }
   .esg {
     min-width: 385px;
   }
-  .wid400 {
-    min-width: 400px;
+  .wid395 {
+    min-width: 395px;
   }
   .new-empCal {
     margin: auto;
